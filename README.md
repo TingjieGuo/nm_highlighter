@@ -1,3 +1,5 @@
+This is a fork of NONMEM highlighter for Sublime Text
+
 ## README
  This is a basic syntax highlighter for NONMEM model files written for SublimeText2/3. Currently it supports NONMEM7. It is still buggy (in that it doesn't highlight things perfectly - it won't mess with your code!) but mostly functional. Feel free to make changes and contribute.
 
